@@ -5,3 +5,5 @@ This repository contains algorithms in java.
 2. Surrounded region program
 3. Implement queue using two stacks : MyQueue.java
 4. Implement Stack using Queues
+5. median of two  sorted arrays
+6. 
