@@ -1,3 +1,4 @@
+package leetcode.string.longestsubstring;
 /**
  * There are two sorted arrays nums1 and nums2 of size m and n respectively.
  * Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
@@ -13,12 +14,7 @@
  * https://leetcode.com/problems/median-of-two-sorted-arrays/
  * https://discuss.leetcode.com/topic/4996/share-my-o-log-min-m-n-solution-with-explanation/4
  */
-package leetcode.string.longestsubstring;
 
-/**
- * @author Ameet
- *
- */
 public class MedianOfTwoSortedArrayOfDifferentLength 
 {
 
